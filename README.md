@@ -118,6 +118,7 @@ SoapClient.retrieve(
 * Alex Vernacchia - [twitter](https://twitter.com/vernacchia), [github](https://github.com/vernak2539)
 * Kelly Andrews - [twitter](https://twitter.com/kellyjandrews), [github](https://github.com/kellyjandrews)
 * Jimmy Burgess - [github](https://github.com/jimmyburgess91)
+* Jeremy Ragsdale - [github](https://github.com/jeremywrags)
 
 ## Contributing
 
@@ -129,6 +130,7 @@ Please checkout our [`.jshintrc`][2] file and follow the linting rules when cont
     * add original response to the callback - *breaking*
     * initial unit tests
 * **0.1.0** - 2014-09-22 - 1st npm release
+* Completed the Perform Method
 
 [1]: https://github.com/ExactTarget/Fuel-Node-Auth#initialization
 [2]: https://github.com/ExactTarget/Fuel-Node-SOAP/blob/master/.jshintrc
